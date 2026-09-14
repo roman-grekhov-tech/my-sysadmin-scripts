@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-TIME=120
+TIME=300
 while true; do
 	date +" --- %Y-%m-%d %H:%M:%S --- " >> monitor.log
 
